@@ -1,2 +1,2 @@
 # PlateValidator
-It is an class that validate libraries depending its country plate rules.
+It is a class that validates car plates depending its country plate rules.
